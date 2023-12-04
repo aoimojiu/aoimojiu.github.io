@@ -1,5 +1,4 @@
 baseURL = 'https://aoimojiu.github.io/'
 languageCode = 'en-us'
-title = 'My blog'
+title = 'Boundless in Knowledge'
 theme = 'hugo-bootstrap-theme'
-themesdir = "node_modules/@filipecarneiro"
