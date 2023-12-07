@@ -1,4 +1,4 @@
-baseURL = "https://aoimojiu.github.io/"
+baseURL : "https://aoimojiu.github.io/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
