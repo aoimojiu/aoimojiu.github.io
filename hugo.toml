@@ -4,7 +4,7 @@ baseURL = "https://aoimojiu.github.io/"
 theme = "LoveIt"
 
 # website title
-title = "Those who keep learning, will keep rising in life."
+title = "keep learning"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
