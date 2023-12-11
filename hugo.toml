@@ -32,9 +32,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "aoimojiu"
+  email = "aoimojiu@gmail.com"
+  link = "https://aoimojiu.github.io/"
 
 # Menu config
 [menu]
@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Welcome to My Site"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
