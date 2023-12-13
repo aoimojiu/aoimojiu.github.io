@@ -5,3 +5,10 @@ draft = false
 +++
 # Git Basic Tutorials
 ![work flow](https://aoimojiu.github.io/images/git_base.png)
+
+# Basic Command
+```
+git checkout -b [branch] [remotename]/[branch]
+git checkout --track origin/serverfix
+git branch -vv
+```
