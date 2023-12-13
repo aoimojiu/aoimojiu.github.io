@@ -7,8 +7,14 @@ draft = false
 ![work flow](https://aoimojiu.github.io/images/git_base.png)
 
 # Basic Command
+## branch
 ```
 git checkout -b [branch] [remotename]/[branch]
 git checkout --track origin/serverfix
 git branch -vv
+git pull(git fetch;git merge)
+```
+## rebase
+```
+
 ```
